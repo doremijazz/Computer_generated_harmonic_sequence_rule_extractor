@@ -34,8 +34,8 @@ Pour valider une séquence, exécutez le fichier main.py sans fournir d'argument
 Pour vérifier une séquence spécifique, exécutez le fichier main.py en lui passant la séquence en argument :
 ``python main.py [séquence]``
 
-##### Captures d'écran
+#### **Captures d'écran**
 
-Exemple d'exécution pour 10 itérations :
+*Exemple d'exécution pour 10 itérations :*
 
-Exemple d'exécution pour 100 itérations : 
+*Exemple d'exécution pour 100 itérations :*
