@@ -3,7 +3,7 @@
 # Frensh version [FR]
 _English version below the French version_
 
-###  \_Description\_
+###  Description
 Le projet "Computer-generated-harmonic-sequence-rule-extractor" est un outil conçu pour créer un oracle destiné à vérifier la validité d'une séquence harmonique générée par ordinateur. L'oracle peut être utilisé pour valider si une séquence donnée suit les règles d'une séquence harmonique.
 
 ### Fonctionnalités principales :
@@ -39,3 +39,48 @@ Pour vérifier une séquence spécifique, exécutez le fichier main.py en lui pa
 *Exemple d'exécution pour 10 itérations :*
 
 *Exemple d'exécution pour 100 itérations :*
+
+## English version [EN]
+
+### Description
+
+The "Computer-generated-harmonic-sequence-rule-extractor" project is a tool designed to create an oracle for verifying the validity of a computer-generated harmonic sequence. The oracle can be used to validate if a given sequence follows the rules of a harmonic sequence.
+
+### Key Features
+
+* Creation of an oracle from a list of harmonic sequences.
+* Validation of a given sequence using the oracle.
+* Calculation of failure percentages when validating the oracle.
+
+### Installation
+
+1. Clone this repository to your local machine.
+2. Ensure you have Python installed on your system.
+3. Install dependencies by running the following command: ``pip install tqdm``
+4. Run the main.py file to launch the application: ``python main.py``
+
+### Dependencies
+
+* sys
+* time
+* tqdm
+* pickle
+* random
+* csv
+
+### Usage Examples
+#### Example 1: Validating a Sequence
+
+To validate a sequence, run the main.py file without providing any argument: ``python main.py``
+
+#### Example 2: Checking a Specific Sequence
+
+To check a specific sequence, run the main.py file with the sequence as an argument: ``python main.py [sequence]``
+
+#### Screenshots
+
+_Example execution for 10 iterations_
+
+
+_Example execution for 100 iterations_
+
