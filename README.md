@@ -90,3 +90,6 @@ _Example execution for 10 iterations_
 _Example execution for 100 iterations_
 
 ![*Exemple d'exécution pour 100 itérations :*](Screenshots/100_iteration.png)
+
+## Licence
+Ce projet est sous licence [MIT](LICENSE).
