@@ -9,6 +9,6 @@ Le projet "Computer-generated-harmonic-sequence-rule-extractor" est un outil con
 * Calcul des pourcentages d'échecs lors de la validation de l'oracle.
 
 ## Installation
-Cloner ce dépôt sur votre machine locale.
-Assurez-vous d'avoir Python installé sur votre système.
-Installez les dépendances en exécutant la commande suivante :
+1. Cloner ce dépôt sur votre machine locale.
+2. Assurez-vous d'avoir Python installé sur votre système.
+3. Installez les dépendances en exécutant la commande suivante :
