@@ -38,13 +38,15 @@ Pour vérifier une séquence spécifique, exécutez le fichier main.py en lui pa
 
 *Exemple d'exécution pour 10 itérations :*
 
+![Nom_de_votre_capture_d'écran](chemin_vers_votre_capture_d'écran)
+
 *Exemple d'exécution pour 100 itérations :*
 
 ## English version [EN]
 
 ### Description
 
-The "Computer-generated-harmonic-sequence-rule-extractor" project is a tool designed to create an oracle for verifying the validity of a computer-generated harmonic sequence. The oracle can be used to validate if a given sequence follows the rules of a harmonic sequence.
+The "Computer-generated-harmonic-sequence-rule-extractor" project is a tool designed to create an oracle to verify the validity of a computer-generated harmonic sequence. The oracle can be used to validate whether a given sequence follows the rules of a harmonic sequence.
 
 ### Key Features
 
