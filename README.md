@@ -44,16 +44,16 @@ Pour vérifier une séquence spécifique, exécutez le fichier main.py en lui pa
 
 ![*Exemple d'exécution pour 100 itérations :*](Screenshots/100_iteration.png)
 
-## Support
+### Support
 Si vous avez des questions, des problèmes ou des suggestions, n'hésitez pas à ouvrir une issue sur ce dépôt. Nous sommes là pour vous aider !
 
-## Contact
+### Contact
 Vous pouvez également nous contacter directement par e-mail à l'adresse [anais.binet@labri.fr](anais.binet@labri.fr).
 
-## Merci !
+### Merci !
 Merci d'avoir pris le temps d'explorer notre projet. Nous espérons qu'il vous sera utile et que vous apprécierez l'expérience de son utilisation.
 
-## Licence
+### Licence
 Ce projet est sous licence [MIT](LICENSE).
 
 ## English version [EN]
@@ -103,14 +103,14 @@ _Example execution for 100 iterations_
 
 ![*Exemple d'exécution pour 100 itérations :*](Screenshots/100_iteration.png)
 
-## Support
+### Support
 If you have any questions, issues, or suggestions, feel free to open an issue on this repository. We're here to help!
 
-## Contact
+### Contact
 You can also reach out to us directly via email at [anais.binet@labri.fr](anais.binet@labri.fr).
 
-## Thank You!
+### Thank You!
 Thank you for taking the time to explore our project. We hope it proves useful to you and that you enjoy the experience of using it.
 
-## License
+### License
 This project is licensed under the [MIT License](LICENSE).
