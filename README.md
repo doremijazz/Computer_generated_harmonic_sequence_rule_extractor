@@ -30,7 +30,7 @@ The "Computer-generated-harmonic-sequence-rule-extractor" project is a tool desi
 * csv
 
 ### Usage Examples
-#### Example 1: Validating a Sequence
+#### Example 1: Validating the oracle
 
 To validate a sequence, run the main.py file without providing any argument: ``python main.py``
 
@@ -86,7 +86,7 @@ Le projet "Computer-generated-harmonic-sequence-rule-extractor" est un outil con
 * csv
 
 ### Exemples d'utilisation
-#### Exemple 1 : Validation d'une séquence
+#### Exemple 1 : Validation de l'oracle
 Pour valider une séquence, exécutez le fichier main.py sans fournir d'argument :
 ``python main.py``
 
