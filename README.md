@@ -37,9 +37,11 @@ Pour vérifier une séquence spécifique, exécutez le fichier main.py en lui pa
 #### **Captures d'écran**
 
 *Exemple d'exécution pour 10 itérations :*
+
 ![*Exemple d'exécution pour 10 itérations :*](Screenshots/10_iteration.png)
 
 *Exemple d'exécution pour 100 itérations :*
+
 ![*Exemple d'exécution pour 100 itérations :*](Screenshots/100_iteration.png)
 
 ## English version [EN]
@@ -83,6 +85,8 @@ To check a specific sequence, run the main.py file with the sequence as an argum
 
 _Example execution for 10 iterations_
 
+![*Exemple d'exécution pour 10 itérations :*](Screenshots/10_iteration.png)
 
 _Example execution for 100 iterations_
 
+![*Exemple d'exécution pour 100 itérations :*](Screenshots/100_iteration.png)
