@@ -3,7 +3,7 @@
 # Frensh version [FR]
 _English version below the French version_
 
-### Description
+### **Description**
 Le projet "Computer-generated-harmonic-sequence-rule-extractor" est un outil conçu pour créer un oracle destiné à vérifier la validité d'une séquence harmonique générée par ordinateur. L'oracle peut être utilisé pour valider si une séquence donnée suit les règles d'une séquence harmonique.
 
 ### Fonctionnalités principales :
