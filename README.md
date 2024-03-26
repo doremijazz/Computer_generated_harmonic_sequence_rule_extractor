@@ -48,7 +48,7 @@ Pour vérifier une séquence spécifique, exécutez le fichier main.py en lui pa
 Si vous avez des questions, des problèmes ou des suggestions, n'hésitez pas à ouvrir une issue sur ce dépôt. Nous sommes là pour vous aider !
 
 ## Contact
-Vous pouvez également nous contacter directement par e-mail à l'adresse [votre@email.com](anais.binet@labri.fr).
+Vous pouvez également nous contacter directement par e-mail à l'adresse [anais.binet@labri.fr](anais.binet@labri.fr).
 
 ## Merci !
 Merci d'avoir pris le temps d'explorer notre projet. Nous espérons qu'il vous sera utile et que vous apprécierez l'expérience de son utilisation.
@@ -107,7 +107,7 @@ _Example execution for 100 iterations_
 If you have any questions, issues, or suggestions, feel free to open an issue on this repository. We're here to help!
 
 ## Contact
-You can also reach out to us directly via email at [your@email.com](mailto:your@email.com).
+You can also reach out to us directly via email at [anais.binet@labri.fr](anais.binet@labri.fr).
 
 ## Thank You!
 Thank you for taking the time to explore our project. We hope it proves useful to you and that you enjoy the experience of using it.
