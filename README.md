@@ -11,8 +11,8 @@ Le projet "Computer-generated-harmonic-sequence-rule-extractor" est un outil con
 ## Installation
 1. Cloner ce dépôt sur votre machine locale.
 2. Assurez-vous d'avoir Python installé sur votre système.
-3. Installez les dépendances en exécutant la commande suivante : ''pip install tqdm ''
-4. Exécutez le fichier main.py pour lancer l'application : '' python main.py ''
+3. Installez les dépendances en exécutant la commande suivante : ``pip install tqdm``
+4. Exécutez le fichier main.py pour lancer l'application : ``python main.py``
 
 ## Dépendances 
 * sys
@@ -25,11 +25,12 @@ Le projet "Computer-generated-harmonic-sequence-rule-extractor" est un outil con
 ## Exemples d'utilisation
 ### Exemple 1 : Validation d'une séquence
 Pour valider une séquence, exécutez le fichier main.py sans fournir d'argument :
-'' python main.py ''
+``python main.py``
 
 ### Exemple 2 : Vérification d'une séquence spécifique
 Pour vérifier une séquence spécifique, exécutez le fichier main.py en lui passant la séquence en argument :
-''python main.py [séquence]''
+``python main.py [séquence]``
+
 #### Captures d'écran
 
 Exemple d'exécution pour 10 itérations :
