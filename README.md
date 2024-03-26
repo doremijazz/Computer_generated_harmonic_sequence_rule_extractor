@@ -36,11 +36,10 @@ Pour vérifier une séquence spécifique, exécutez le fichier main.py en lui pa
 
 #### **Captures d'écran**
 
-*Exemple d'exécution pour 10 itérations :*
 
-![Nom_de_votre_capture_d'écran](chemin_vers_votre_capture_d'écran)
+![*Exemple d'exécution pour 10 itérations :*](Screenshots/10_iteration.png)
 
-*Exemple d'exécution pour 100 itérations :*
+![*Exemple d'exécution pour 100 itérations :*](Screenshots/100_iteration.png)
 
 ## English version [EN]
 
